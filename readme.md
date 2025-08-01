@@ -1,6 +1,6 @@
 # How-to: DataGrid Pills
 
-This example demonstrates how to style column content in a DataGrid as pills. The pills can be used to represent a status or similar enum value of each row in the grid. However, the CSS can be altered to faciliate any other display. 
+This example demonstrates how to style column content in a DataGrid as pills. The pills can be used to represent a status or similar enum value of each row in the grid. However, the CSS can be altered to faciliate any other display based on a specific set of column values. 
 
 ![](images/view.png)
 
