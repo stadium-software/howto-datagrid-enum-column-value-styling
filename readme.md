@@ -26,8 +26,8 @@ This example styles DataGrid content for the values `Subscribed`, `Unsubscribed`
 	border-style: solid;
 }
 .pill span[title='Subscribed'] {
-	color: lightgreen;
-	border-color: lightgreen;
+	color: green;
+	border-color: green;
 }
 .pill span[title='Unsubscribed'] {
 	color: darkred;
