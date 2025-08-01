@@ -1,6 +1,6 @@
 # How-to: DataGrid Pills
 
-This example demonstrates how to display column content in a DataGrid using pills. The pills can be used to represent a status or similar enum value of each row in the grid.
+This example demonstrates how to style column content in a DataGrid as pills. The pills can be used to represent a status or similar enum value of each row in the grid. However, the CSS can be altered to faciliate any other display. 
 
 Example:
 ![](images/view.png)
@@ -13,9 +13,9 @@ Example:
 
 ![](images/ColumnsEditor.png)
 
-3. Add CSS similar to the below to your stylesheet. This displays the content as pills and assigns specific colours to each enum value
+3. Add CSS similar to the below to your stylesheet. 
 
-This example styles DataGrid content for the values `Subscribed`, `Unsubscribed`, and `No data`. You can modify the CSS to suit your needs.:
+This example assigns a base style for all cells containing the CSS class `pills` and additionally styles DataGrid content for the values `Subscribed`, `Unsubscribed`, and `No data` in separate colours. You can modify the CSS to suit your needs.
 ```css
 .pill span {
 	font-weight: bold;
