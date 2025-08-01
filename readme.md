@@ -2,7 +2,6 @@
 
 This example demonstrates how to style column content in a DataGrid as pills. The pills can be used to represent a status or similar enum value of each row in the grid. However, the CSS can be altered to faciliate any other display. 
 
-Example:
 ![](images/view.png)
 
 For more advanced needs, including greater than, smaller than or similar, more complex conditional display, consider using the [Conditional Datagrid Styling](https://github.com/stadium-software/conditional-datagrid-styling) module
