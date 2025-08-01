@@ -5,6 +5,8 @@ This example demonstrates how to style column content in a DataGrid as pills. Th
 Example:
 ![](images/view.png)
 
+For more advanced needs, including greater than, smaller than or similar, more complex conditional display, consider using the [Conditional Datagrid Styling](https://github.com/stadium-software/conditional-datagrid-styling) module
+
 ## Steps
 1. Create a new DataGrid and populate it with DataGrid
 2. Open the DataGrid's `Columns` property and select the column you want to display as pills
