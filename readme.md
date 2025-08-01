@@ -12,6 +12,8 @@ Example:
     2. Add a class of your coice to the `Classes` property (e.g. pill)
 3. Add CSS similar to the below to your stylesheet. This displays the content as pills and assigns specific colours to each enum value
 
+![](images/ColumnsEditor.png)
+
 This example styles DataGrid content for the values `Subscribed`, `Unsubscribed`, and `No data`. You can modify the CSS to suit your needs.:
 ```css
 .pill span {
